@@ -1,5 +1,6 @@
 # Event-Logging-System
 Problem Statement: Event Logging System
+<img src="[https://github.com/user-attachments/assets/a8e957e4-ba67-4472-86e5-f483f2da5a11]" width="500" height="300" />
 
 ![Screenshot (1936)](https://github.com/user-attachments/assets/a8e957e4-ba67-4472-86e5-f483f2da5a11)
 
